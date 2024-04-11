@@ -6,7 +6,7 @@ Make sure that you have uBlock Origin installed on your computer. If you dont, d
 
 Go to `chrome-extension://cjpalhdlnbpafiamejdnhcphjbkeiagm/settings.html`
 
-Check the "I am an advanced user" box, then click on the small gear ⚙️ icon. Find `userResourcesLocation` and change it from `unset` to `https://blobby-boi.github.io/uBlobeBM/blob.js`
+Check the "I am an advanced user" box, then click on the small gear ⚙️ icon. Find `userResourcesLocation` and change it from `unset` to `https://cdn.jsdelivr.net/gh/25HoursaDay/uBlobeBM@main/blob.js`
 
 Go to `chrome-extension://cjpalhdlnbpafiamejdnhcphjbkeiagm/1p-filters.html`
 
